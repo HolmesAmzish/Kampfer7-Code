@@ -1,0 +1,11 @@
+HOST
+
+00:5C:C2:FD:EE:28  -65        1        0    0   1  540   WPA2 CCMP   PSK  QHH
+08:40:F3:2C:14:08  -66        6        1    0  36  780   WPA2 CCMP   PSK  417_5G
+08:40:F3:2C:14:04  -48       21       10    0   1  130   WPA2 CCMP   PSK  417
+E2:06:D2:18:E3:21  -62        1        0    0 149  866   WPA2 CCMP   PSK  马
+
+CLIENT
+
+10:F6:0A:5B:87:04   x
+70:A8:D3:6C:66:3C   w
