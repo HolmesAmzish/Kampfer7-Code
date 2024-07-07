@@ -54,7 +54,7 @@ def commit_attack(count, iface):
 
 group = b'\x13\x00'
 confirm = 'valid_confirm'
-bssid = '0A:AF:03:7A:09:6C'
+bssid = '96:44:5D:85:F9:41'
 count = 256
 iface = 'wlan0'
 

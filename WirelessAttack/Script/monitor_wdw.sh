@@ -1,1 +1,1 @@
-airodump-ng -c 48 --bssid 0A:AF:03:7A:09:6C  wlan0
+airodump-ng -c 40 --bssid 96:44:5D:85:F9:41 wlan0
